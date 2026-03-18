@@ -234,6 +234,7 @@ MCP servers related to Finance
 - [coin_api_mcp](https://github.com/longmans/coin_api_mcp) - Provides access to coinmarketcap cryptocurrency data
 - [crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp) - Providing real-time and historical Crypto Fear & Greed Index data
 - [cryptopanic-mcp-server](https://github.com/kukapay/cryptopanic-mcp-server) - Providing latest cryptocurrency news to AI agents, powered by CryptoPanic
+- [GoldRush](https://github.com/covalenthq/goldrush-mcp-server) - Blockchain data across 100+ chains — wallet balances, token prices, transactions, DEX pairs, and more. REST API, real-time WebSocket with OHLCV price feeds, CLI, and x402 pay-per-request.
 
 ## Gaming
 
